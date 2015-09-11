@@ -1,27 +1,47 @@
-triangle-tracker-js
-=========
+# _Find and Replace Code Review_
 
-Author: Kelly Becker<br>
-Triangle Tracker takes the lengths of three sides and determines if they form a valid triangle.  If so, the tracker returns the name of the kind of triangle the sides make (equilateral, isosceles, scalene).  This is an example of refactoring a single function into a few functions to DRY the code and make it more readable.
+##### _{Brief description of application}, {Semptember 11, 2015}_
 
-_Thanks to Debbie Cravey and Karvari Ellingson for original code_
+#### By _**Trevor Scherling**_
 
-Installation
-------------
-Install triangle-tracker-js by cloning this repository:
-```
-https://github.com/epicodus-lessons/triangle-tracker-js
-```
+## Description
 
-Contribute
----------
-**Issue Tracking**:  github.com/epicodus-lessons/triangle-tracker-js/issues <br>
-**Source**: github.com/epicodus-lessons/triangle-tracker-js
+_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
 
-Support
--------
-If you have any issues using this app, contact kelly@epicodus.com
+## Setup
 
-License
--------
-MIT License. Copywright 2015 Kelly Becker
+* _This is a great place_
+* _to list setup instructions_
+* _in a simple_
+* _easy-to-understand_
+* _format_
+
+_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
+
+## Technologies Used
+
+_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+
+### Legal
+
+Copyright (c) 2015 **_Trevor Scherling_**
+
+This software is licensed under the MIT license.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
