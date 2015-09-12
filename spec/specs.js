@@ -1,11 +1,15 @@
 describe('replaceWord', function() {
 
-  it("return a word and replace it with another word", function() {
-    expect(replaceWord('morning')).to.equal('coffee');
+  it("returns a word and replace it with another word", function() {
+    expect(replaceWord('morning', 'morning', 'coffee')).to.eql('coffee');
   });
 
-  it("return a specific word in a string with another word", function(){
-    expect(replaceWord('Hello World')).to.equal('Hello Universe')
+  it("returns a specific word in a string with another word", function(){
+    expect(replaceWord("hello world", "world", "universe")).to.eql("hello universe")
+  });
+
+  it("returns a multiple of the same word in a string, with another word", function () {
+    expect(replaceWord("coffee coffee", "coffee", "water")).to.eql("water water")
   });
 
 });
