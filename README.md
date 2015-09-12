@@ -1,23 +1,23 @@
 # _Find and Replace Code Review working progress_
 
-##### _{Brief description of application}, {Semptember 11, 2015}_
+#####  _A javascript application that Replaces a word with another word in a string, {Semptember 11, 2015}_
 
 #### By _**Trevor Scherling**_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
+_A javascript application that allows the user to input a string, find a word in the string, replace the original word with a new word and outputs the original string with the new word._
 
 ## Setup
 
 git clone https://github.com/Rugbyman21/find-replace-code-review.git
 
 
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
+
 
 ## Technologies Used
 
-_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* Written in javascript, jQuery, css, mochajs and chaijs
 
 ### Legal
 
