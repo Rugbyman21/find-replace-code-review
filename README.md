@@ -10,15 +10,15 @@ _A javascript application that allows the user to input a string, find a word in
 
 ## Setup
 
-git clone https://github.com/Rugbyman21/find-replace-code-review.git
-get into the folder, find-replace-code-review.
-get into the spec folder
-left click onto the spec-runner.html (on a mac: hold down the control key and click on the touchpad)
-Open with google chrome (default)
+* git clone https://github.com/Rugbyman21/find-replace-code-review.git
+* Get into the folder, find-replace-code-review.
+* Get into the spec folder
+* Left click onto the spec-runner.html (on a mac: hold down the control key and click on the touchpad)
+* Open with google chrome (default)
 
-Go back into the folder, find-replace-code-review
-left click onto find-replace.html (on a mac: hold down the control key and click on the touchpad)
-Open with google chrome (default)
+* Go back into the folder, find-replace-code-review
+* Left click onto find-replace.html (on a mac: hold down the control key and click on the touchpad)
+* Open with google chrome (default)
 
 ## Technologies Used
 
