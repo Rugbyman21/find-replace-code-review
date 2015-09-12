@@ -11,5 +11,5 @@ describe('replaceWord', function() {
   it("returns a multiple of the same word in a string, with another word", function () {
     expect(replaceWord("coffee coffee", "coffee", "water")).to.eql("water water")
   });
-
+  
 });

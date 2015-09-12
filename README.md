@@ -1,6 +1,6 @@
-# _Find and Replace Code Review working progress_
+# _Find and Replace Code Review_
 
-#####  _A javascript application that Replaces a word with another word in a string, {Semptember 11, 2015}_
+#####  _A javascript application that replaces a word with another word in a string, {Semptember 11, 2015}_
 
 #### By _**Trevor Scherling**_
 
