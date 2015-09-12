@@ -1,4 +1,4 @@
-# _Find and Replace Code Review_
+# _Find and Replace Code Review working progress_
 
 ##### _{Brief description of application}, {Semptember 11, 2015}_
 
@@ -10,11 +10,8 @@ _{This is a detailed description of your application. Give as much detail as nee
 
 ## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+git clone https://github.com/Rugbyman21/find-replace-code-review.git
+
 
 _{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
 
